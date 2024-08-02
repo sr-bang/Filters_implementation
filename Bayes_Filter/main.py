@@ -1,5 +1,3 @@
-import numpy as np
-
 class BayesFilter:
     def __init__(self):
         # Initial state probabilities
